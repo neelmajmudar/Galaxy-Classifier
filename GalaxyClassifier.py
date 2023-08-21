@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import math
 
+#https://data.galaxyzoo.org/
 data = pd.read_csv('Galaxydata.csv')
 
 #print(data.columns)
